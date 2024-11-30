@@ -34,7 +34,9 @@
 ## Features  
 
 ### 1. User Authentication  
-Secure signup, login, and logout functionality powered by **Appwrite Authentication**.  
+Secure signup, login, and logout functionality powered by **Appwrite Authentication**.
+
+![Screenshot 2024-11-30 at 2 06 42 PM](https://github.com/user-attachments/assets/7f9af986-7bb5-495b-b0f9-f8dcd2158fba)
 
 ### 2. File Uploads  
 Upload various file types, including documents, images, videos, and audio files. 
